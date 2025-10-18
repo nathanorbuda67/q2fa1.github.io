@@ -1,0 +1,26 @@
+video {
+    size-adjust: initial;
+}
+#feet{
+    background-color:#6B4226;
+    text-align: center;
+}
+#head{
+    background-color:#6B4226;
+    text-align: center;
+}
+body{
+    background-color: #F3E9D2;
+}
+nav{
+    float: right;
+}
+#wrapper {
+width:1250px;
+}
+.skib:hover {
+    background-color: #C19A6B;
+}
+.skib:visited {
+    background-color: #6B4226;
+}
